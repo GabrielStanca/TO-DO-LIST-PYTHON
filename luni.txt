@@ -1,0 +1,1 @@
+["sa invat ", "sa scriu", "sa citesc", ""]

@@ -1,0 +1,1 @@
+['alegere exercitii/invatat python/timp liber','daca mai sunt erori in program cauta rezolvare','timp liber']

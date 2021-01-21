@@ -1,0 +1,1 @@
+['invata python','rezolva erorile din program','timp liber']
